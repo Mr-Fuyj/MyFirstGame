@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="TESTONE" tilewidth="32" tileheight="32" tilecount="627">
+  <image source="TESTONE.PNG" width="1068" height="614"/>
+ </tileset>
+ <layer name="块层 1" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1fOfGAQcx+G72d7NtnmzbRs3++5mu5qq2UY1VbONaqpmG9VUzUZP/d5/cK/X9/kHvj+8P4EBAQGRiEwUohKN6MQgJrGITRziEo/4JCAhiUhMEpISRDKSk4KUpCI1aUhLRjKRmSxkJRvZyUFOcpGbPOQlH/kpQEEKUZhgilCUYhSnBCUpRWnKUJaKVKIyVahKNapTg5rUojZ1qEs96tOAhjSiMU1oSjOa04KWtKI1IbShLR3pRGe60JVudKcHoYQRTk960Zs+9KUf/RnAQAYxmCEMZRjDGcFIRjGaMYxlHOOZwOd8wZdMZBKTmcJUpjGdGcxkFrOZw1zmMZ8FLGQRi1nCUpaxnBWsZBWr+Zbv+J41rGUd69nARjaxmS1sZRvb2cFOdrGbPexlH/s5wEEOcZgjHOUYP/MLv3KcE5zkFKc5w1nOcZ4LXOQSl7nCVa5xnRvc5Ba3ucNd7nGfBzzkT/7ibx7xmCc85RnPecFLXvGaN7zlHe/5wEcCAh2RiEwUohKTWMQmDnGJR3wSkJBEJCYJSQkiGclJQUpSkZo0pCUd6clARjKRmSxkJSe5yE0e8pKP/BSgIIUoTDBFKEoxilOCkpSiNGUoSznKU4GKVKIyVahKTWpRmzrUpR71aUBDGtGYJjSlGc1pQUta0ZoQ2tCWdrSnAx3pRGe60DXwv/dHdDIgopMRnYzoZEQn/7+ToYQRTk960Zs+9KUf/RnAQAYxmCEMZRjDGcFIRjGaT/iUzxjDWMYxnglMZBKTmcJUpjGdGcxkFrOZw1zmMZ8FLGQRi1nCUpbxFV/zDctZwUpWsZo1rGUd69nARjaxmS1sZRvb2cFOdrGbPexlH/s5wEF+4Ed+4hCHOcJRjnGcE5zkFKc5w1nOcZ4LXOQSl7nCVa5xnRvc5Ba3ucNv/M4f3OUe93nAQx7xmCc85RnPecFLXvGaN7zlHe/5wEf+HdFAIhGZKEQlGtGJQUxiEZs4xCUhiUhMEpISRDKSk4KUpCI1aUhLOtKTgYxkIjNZyEo2spODnOQiN3nIS0EKUZhgilCUYhSnBCUpRWnKUJZylKcCFalEZapQlWpUpwY1qUVt6lCXhjSiMU1oSjOa04KWtKI1IbShLe1oTwc60onOdKEr3ehOD0IJI5ye9OIfeZ2Kog==
+  </data>
+ </layer>
+</map>

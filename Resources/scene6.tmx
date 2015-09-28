@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="21" height="13" tilewidth="32" tileheight="32" nextobjectid="2">
+ <tileset firstgid="1" name="qinshi" tilewidth="32" tileheight="32" tilecount="273">
+  <image source="qinshi.PNG" width="673" height="416"/>
+ </tileset>
+ <layer name="ground" width="21" height="13">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACy3OVXQQBABA0Y0Faza6u7tTaRQQAenuLkkRAzigNIi0hKR0KI3S3d2NdKpISQj3g3Pe/X+BAQEB8QgimBBCiU8Y4UQQSRTRxJCAWOJISCISk4SkJCM5KUhJKlKThrSkIz0ZyEgmMpOFrGQjOznISS5yk4e85CM/BShIIQpThKIUozglKEkpPuBDSlOGspSjPBWoSCU+4mMqU4WqfEI1PqU6NajJZ9SiNnWoSz3q04CGNKIxTWhKM5rTgpa0ojVtaEs72tOBjnSiM13oSjc+pzs96EkvetOHL+jLl/TjK77mG76lPwMYyFIGMZjv+J4hDGUYwxnBSEYxmjH8wFh+ZBzjmcBEJjGZKfzEVKYxnRn8zExmMZs5zGUevzCfBSxkEYtZ8v51GctZwa/8xkpWsZo1rGUd69nA7/zBRjaxmS1sZRvb2cFOdrGbPexlH/s5wEEOcZgjHOUYxznBSU5xmjOc5RznucBFLnGZK1zlGn9ynRvc5Ba3ucNd7nGfBzzkEX/xN//wmH95wlOe8ZwX/MdLXvGaN/zPWwICRTyCCCaEUOITRjgRRBJFNDEkIJY43gGhJMcpRAQAAA==
+  </data>
+ </layer>
+ <layer name="meta" width="21" height="13">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC63Ty1ONcRgH8Pd0ut+LUnJJKrfcQyKZQqVSio2FhYUZ/gj+CFbZsakVOzb8ES5DuYXKZSKFQjefmc6iOU5nQd+Zz8z7PO88390vFARBAmESSSKZFFJJI50MMskimxxyySOfFaykgEJWUUQxqylhDWtZx3pK2UAZGymngko2sZktbGUbVWxnBzvZxW72sJdq9rGfA9RwkFoOcZg6jlDP0WAhDTRyjOOcoIlmWjhJK220c4oOOjlNF92c4Wzwd85Fzeej5gtR88VF35e4HKPzf3KFq8vceY3rS/zr4Uac25vcirHvpW+Jm9vcidN5l3sx9vd5EOfuX/KQRzzmSWT3lGf0M8BzXvCSV7xmkDe85R1DDDPCez7wkU+RzlE+84UxvjLOBN/4zg8mmeInv/jNNDPMMsd8pDMU8v4Jk0gSyaSQShrpZJBJFtnkkEsefwA0bjqtRAQAAA==
+  </data>
+ </layer>
+ <layer name="door" width="21" height="13">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBQMdvCaFoYyUscYAAM+xnBEBAAA
+  </data>
+ </layer>
+ <objectgroup name="object">
+  <object id="1" x="574" y="192" width="32" height="32"/>
+ </objectgroup>
+</map>

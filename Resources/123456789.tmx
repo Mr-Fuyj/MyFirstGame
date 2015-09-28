@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="green1" tilewidth="32" tileheight="32" tilecount="486">
+  <image source="green1.PNG" width="866" height="578"/>
+ </tileset>
+ <layer name="块层 1" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzF1WmUzWUcwPGRhFN5gSQlW0MqEuVF2qiQpHpR0mpnhrKM9dqXGTG2wU0lirJvt50SxjCWsbUpGvtSqLzwoj0+c859cY/j3Lrzd8598XnxP7/n/L/PPfd5zr9aSkpKdWpQk1rcRCq1qcPN1OUWbuU26lGf22nAHTSkEXdyF40pW+Li7jZrwj3cy33czwM0pRkP8hAP05wWtOQRWvEorXmMNjzOEzwZp/uU2dO05Rna8SzP8Twv8CIv0Z4OdKQTnelCV7rRnTTS6UHPON3eZn3oSwb96M8ABjKIwYQYwlCGMZwRjGQUoxnDWDLJYlycbrbZRCYxmSlMJYdpTGcGYV5jJq/zBm8yi7eYzRze5h3mMi9Od4HZQhaxmCUsZRnLWcFKIrzPB3zIR3zMJ3zKKlbzGZ+zJk6zSK75BvLYyCby2cwWtrKNArazg53sYjdf8hVf8w3fsuc/mkUKrdnPAQ5yiMMc4SjHOM4JfuQnTnKK0/zML/zKmQt6Z+P0fzP7nT/4k7/4m3/4l3OkWFeCyyjJ5ZTiCkpTJuZ9V3IVV1Muzu8tTwUqcg2VuJbKXEcVrucGqnIj1ahOjQvelUpt6kSf68bp1qM9HehIJzrTha50oztppNODnrzMK/Qquov0oS8Z9KM/AxjIIAYTium2ZAhDGcZwRjCSUYxmDGPJJItxvMp4JpDNRCYxmSlMJYdpTGcG4Zhu0P0nsjYS0w26/0TWFsR05zKPd3mP+SxgIYtYzBKWsozlrGBldP+JrD0R013DF6xlHevJZQN5bGQT+WxmC1vZFt1/cc/Wd3zPXvbxA4Xs5wAHOcRhjnCUYxyP7r+4Zytotzj/TdmAzSB3OEg3yP0L0g0lqRtOUjeSpG5BkrpBznTQ+5toL1nd0CXqhhIUjgraDScoEvV/vzuRS6Qg6jwwme88
+  </data>
+ </layer>
+</map>

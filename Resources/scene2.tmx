@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="19" height="17" tilewidth="32" tileheight="32" nextobjectid="3">
+ <tileset firstgid="1" name="教学楼一楼" tilewidth="32" tileheight="32" tilecount="323">
+  <image source="教学楼一楼.PNG" width="610" height="544"/>
+ </tileset>
+ <layer name="ground" width="19" height="17">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACyXS+XsPBADH8e/u2cVsZpfZbLMN2+y+bMzSqdORVKRcHSIRpVzdhaI8OnRRpCiV6CCl0uEqOuhQOUKOytGhQ68eP7yezx/w/gQFAoFgQggljHAiiKQZUUQTQyxxNKcF8bQkgURakURrkkkhlTTSaUMGbckki3Zkk0Mu7ckjnwI60JFOFFJEMZ0poZQyyqmgkiqqqaGWOrpQTwNd6UYj3WniFHpwKqdxOmdwJmfRk7M5h3M5j/O5gF70pg99uZB+XER/LuYSLmUAA7mMQVzOFQxmCEMZxnCu5Cqu5hpGcC0jGcV1jOZ6xjCWGxjHeG7kJiZwM7cwkUlMZgpTuZXbuJ07uJO7uJt7uJdpTGcG93E/M5nFAzzI7P87BQUCc+xDPMwjPMpcHuNxnuBJnmIe83maZ1jAQp5lEc/xPItZwgu8yFJe4mVeYRmvspwVvMbrvMGbrGQVb7Gat3mHNbzLe7zPWj7gQz7iY9axng1sZBOf8Cmb2cJnfM4XfMlWtvEVX/MN37Kd7/ieH9jBTnaxmx/Zw1728RP7OcBBDvEzv/ArhznCUY7xG7/zB39ynL/4m3/4lxMEdAoimBBCCSOcCCJpRhTRxBBLHM1pQTwtSSCRViTRmmRSSCWNdNqQQVsyyaId2eSQS3vyyKeADnQMOvmrQooopjMllFJGORVUUkU1NdRSRxfqaaAr3WikO038B1QzXxgMBQAA
+  </data>
+ </layer>
+ <layer name="meta" width="19" height="17">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC43SWYhOYRgH8DOWwewzmH1fMPu+kGGYUopSSinFrVt7tuxrtpBdtuw3ciE3RHIhETeS5Ia4ckXcKD95y/H1Tbz16/k/7/c853TqS4miaBjDGcFIUhnFaMaQRjoZZJJFNjnkksdYxjGefAoopIhiSiiljHIqqKSKamqopY4JTGQS9TTQSBPNtNBKG+100EkX3fTQSx+TmRL9Of2xPBDLg7E8K5Znx/Ic5sb6ebE8P5YXxPLCWF4Uy4tZEv37LP2PmWUsZwUrWcVq1oTf17KO9WxgY7jfxGa2sJVtbGcHO9nFbvawN+zsYz8HOMihcH+YIxylKSWKjqnHOcFJTnGaM5wNO+c4zwUucincX+YKV7nGdW5wM8m33wr1dsL9nVDvJtm5x/2QH/Aw5EehPk6YfxLq01Cf8TzkF7xM8o5Xob4O9U2ob0N9l2TnPR9C/sinJDO/zuch7r/wNeRvfE8y82OI3fhJTfm7T9Onk0EmWWSTQy55CfP5+gIKKaKYEkopo5wKKqmimhpqqUt4Vr2+gcaU3/+rZlpopY12Ouiki2566KUv4VlT9f1MYzoDzGAmg/wE79YUiAwFAAA=
+  </data>
+ </layer>
+ <layer name="door" width="19" height="17">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBRgAycG2gEjFKgxMjCoA7EGI+VmWQLNsAJiayLMAgCTf/gUDAUAAA==
+  </data>
+ </layer>
+ <objectgroup name="object">
+  <object id="1" x="32" y="353" width="32" height="32"/>
+  <object id="2" x="546" y="98" width="32" height="32"/>
+ </objectgroup>
+</map>

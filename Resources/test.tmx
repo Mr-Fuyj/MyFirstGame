@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="1" tilewidth="32" tileheight="32" tilecount="273">
+  <image source="1.PNG" width="673" height="416"/>
+  <tile id="68">
+   <properties>
+    <property name="Collidable" value="true"/>
+   </properties>
+  </tile>
+  <tile id="89">
+   <properties>
+    <property name="Collidable" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="ground" width="10" height="10">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC42Pyw0AIAhDQUVZxv3XsxeShvg7vMTU0oKKSAEVNGCggwGc/vThCz18mmbzPGuT4Ex/dDq9c+9pX+5knXewj3tz3unOne+WtwCR3AMkkAEAAA==
+  </data>
+ </layer>
+ <layer name="barrier" width="10" height="10" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGHjgNNAOYBgcbgABAMirMNGQAQAA
+  </data>
+ </layer>
+ <layer name="meta" width="10" height="10">
+  <properties>
+   <property name="Collidable" value="true"/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGHgQBcSuUEwv4DYI3IANAAB61+jLkAEAAA==
+  </data>
+ </layer>
+</map>

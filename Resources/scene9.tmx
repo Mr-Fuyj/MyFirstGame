@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="11" height="16" tilewidth="32" tileheight="32" nextobjectid="2">
+ <tileset firstgid="1" name="商店2" tilewidth="32" tileheight="32" tilecount="176">
+  <image source="商店2.PNG" width="357" height="514"/>
+ </tileset>
+ <layer name="ground" width="11" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACy3N1zoWAAAA0N8omiiSVdpCkr4USiqKkpEWKhWlISop2rQjpIkooqFUj9i5cHGuT1AgEAgmhFBmMZswwpnDXOYxnwUsJIJIoljEYqKJYQmxLCWOeBJIJIllLCeZFaxkFatZw1rWkcJ6UkkjnQ1ksJFMNpHFZqrYQjZb2UYOueSxnR3ks5MCdrGbPRRSxF72UUwJ+zlAKQcpo5wKKjk0cx/mCEc5xnGqqaGWE5zkFHWc5gxnqaeBc5ynkQtc5BKXaeIKzbRwlWtcp5UbtHGTW7TTwW3ucJd73OcBD+mki0c85glPecZzXvCSbnp4RS999POaAd7wlne85wMfGWSIYT4xwiif+cIY43xlgkm+8Z0f/GSKX/xmmj/85R//AUk36/PAAgAA
+  </data>
+ </layer>
+ <layer name="meta" width="11" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC33OSS8dYBQG4FvzTBU1j0Vr2NjohraEHWFH2BEWprAwhZ2ujUGNQauI6Sd6Fp9Erpt7kic5ec/7Jd+HSCSSQCJJJJNCKmmkk0EmWWSTQy55fCSfTxRQSBGfKaaEUsoop4JKqqimhlrq+EI9DTTylW800UwLrZH30xYja+d7jLyDTn7wk1900R3uPfTGePc6ffSHfYDBON0hhsM+wmic7hjjYZ9gMuo+xTQzzDIX8nkWorqLLLHMCqshX2M9zh82+B3n/nY22WKbHXbZC7d9DjjkD0ccc8IpZ5yH7gWXXPGXf1zznxtuuQvdex545IlnXgBTb01dwAIAAA==
+  </data>
+ </layer>
+ <layer name="door" width="11" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYGBAFxXUAgAN0omEwAIAAA==
+  </data>
+ </layer>
+ <objectgroup name="object">
+  <object id="1" x="225" y="129" width="32" height="32"/>
+ </objectgroup>
+</map>

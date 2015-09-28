@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="15" height="10" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="1" tilewidth="32" tileheight="32" tilecount="544">
+  <image source="green2.PNG" width="1025" height="549"/>
+ </tileset>
+ <tileset firstgid="545" name="2" tilewidth="32" tileheight="32" tilecount="204">
+  <image source="green15.PNG" width="546" height="386"/>
+ </tileset>
+ <layer name="bglayer" width="15" height="10">
+  <data encoding="base64" compression="zlib">
+   eJwNw+U1hQEAANDPH93MoJsZxHuaGXQzg25m0M0MuplBNwO495xbHgRBhZVWGTJstTXWWme9DTbaZLMtttpmux122mW3PfbaZ78DDjrksCOOOua4E0465bQzzjrnvAsuuuSyK6665robbrrltjvuuue+Bx565LEnnnrmuRdeeuW1N956570PPvrksy+++ua7H3765bc//vpnZEQQRBltjLHGGW+CiSaZbIqpppluhplmmW2OueaZb4GFFllsiaWWWW6FlVYZMmy1NdZaZ70NNtpksy222ma7HXbaZbc99tpnvwMOOuQ/4XFFuw==
+  </data>
+ </layer>
+ <objectgroup name="hero"/>
+ <layer name="bflayer" width="15" height="10">
+  <data encoding="base64" compression="zlib">
+   eJxjYBiewBWKGZBoWgALJvL1elKgd7ADALR3AVU=
+  </data>
+ </layer>
+</map>

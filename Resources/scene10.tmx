@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="17" height="19" tilewidth="32" tileheight="32" nextobjectid="2">
+ <tileset firstgid="1" name="餐厅" tilewidth="32" tileheight="32" tilecount="323">
+  <image source="餐厅.PNG" width="547" height="610"/>
+ </tileset>
+ <layer name="ground" width="17" height="19">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACy3FVXQQBABA0YFsMGrAiDFiNGPk6BwxQBCUUJSQ7k7pUsKgJCUklVBAkEZC6VC6uxvp7vvBOe+eFycgICAugcR7/yDik4BgEpKIxCQhKSEkIzkpCCUlqUhNGsJISzjpSE8GMhJBJjKThaxkIzs5yEkkuYgiN3nISz7yU4BoClKIwhShKMUoTglKUorSlCGGspSjPBWIpSKVqMyHVKEqH1GN6nzMJ9SgJrWozad8Rh0+5wvqUo/6NOBLGtKIxjShKc1oTgta0orWtKEt7WhPBzrSic50oSvd6E4PvqInvehNH/rSj/4MYCCDGMzXfMMQhjKM4XzLd3zPD4xgJKMYzRh+ZCzjGM8EJjKJn5jMFKYyjZ+ZzgxmMovZzOEXfmUu85jPAn7jdxayiMX8wRKW8ifLWM4KVrKK1axhLX+xjvVsYCN/8w+b2MwWtrKN7exgJ7vYzb/8xx72so/9HOAghzjMEY5yjOOc4CSnOM0ZznKO81zgIpe4zBWuco3r3OAmt7jN/9zhLve4zwMe8ojHPOEpz3jOC17yite84S0BcURcPiAegQQRnwQEk5BEJCYJSQkhGclJQSgpSUVq0hBGWsJJR3oykJEIMpGZLGQlG9nJQU4iyUUUuclDXvKRnwJEU5BCFKYIRSlGcUpQklKUpgwxlKUc5alALO8AAtHtKwwFAAA=
+  </data>
+ </layer>
+ <layer name="meta" width="17" height="19">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC5XPx49OURgH4O8bo7fpM6b3YnpRRoZRIxFECBsrG0SLFiVatCjRogX/gc5WZ61bYKFvsMB/wDPJWXz5XMnn5D73fc8vJ+89Nx6LxdLoT3qoAxjIIAYzhKEMYzgjGEkGmWSRTQ655JFPAaMopIhiSiiljHIqqKSKamqopY56GhhNI00000IrbbTTQSddsb9Xd0Lfk9D3RpydzozQz0zIZ4U6mznMDft5oc5nQegXsihi9uKIrG8ticiWsozlYb+ClaxiNWtCvpZ1rGcDG0O+ic1sYWvItrGdHexkV8h3s4e97GN/yA9wkEMcDtkRjnKM45wI+UlOcZoznA35Oc5z4R//nsq6yCUuc4WrXOM6N7iZwoxb3OYOd7nHfR7wkEcp3uUxT3jKM57zgpe8Sjr7mje8Tcrf8Z4PfOQTn/kS8b2vfON7Uv6Dn/xK8d5R63ffK+4hjX6kx/9vRobzmWSRTQ655JFPQZhXqBZRTAmllFFOBZVUUU0NtdRRT0OY0ag20UwLrbTRTgeddDGGsYxjPN1MCDN61IlMopfJTGEq0/gDX2FUXQwFAAA=
+  </data>
+ </layer>
+ <layer name="door" width="17" height="19">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBSMguEN2BgJqwEAPASzPAwFAAA=
+  </data>
+ </layer>
+ <objectgroup name="object">
+  <object id="1" x="417" y="288" width="32" height="32"/>
+ </objectgroup>
+</map>

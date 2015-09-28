@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="19" height="16" tilewidth="32" tileheight="32" nextobjectid="4">
+ <tileset firstgid="1" name="教学楼3楼" tilewidth="32" tileheight="32" tilecount="304">
+  <image source="教学楼3楼.PNG" width="612" height="543"/>
+ </tileset>
+ <layer name="ground" width="19" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACy3RVWwWZhiG4b+4U4p7W6C4O8EHDFtwGENDgCEJ7u4bMny4DXcfMNyd4S4brsHdL0IPrtzfwZvn5AsKBAJRiEo0ohODmMQiNnGISzzik4CEBJOIEBKThKQkIzkpSEkqUpOGtKQjPaGEEU4GMpKJCDKThaxkIzs5yEkucpOHvOQjPwUoSCEKU4SiFCMoKBAoriUoSSlKU4ay/EA5ylOBH6lIJSpThar8FLlVTatTg5rUojZ1qEs9fqY+v9CAhjSiMU1oGrnVLLLNtQUt+ZVWtKYNbSNvvmnn3Z4OdKQTnelCV7rRnR70pBe96UNf+tGfAQxkEIMZwlCG8Ru/M5wRjGQUfzCaMYxlHOOZwET+ZBKTmcJUpjGdGcxkFrOZw1/MZR7zWcBCFrGYJSxlGctZwUpWsZo1rGUd6/mbDWxkE/+wmS1sZRvb2cFOdrGbPexlH/s5wEEOcZgjHOUY/3KcE5zkFKc5w1nOcZ4LXOQSl7nCVa7xH/9znRvc5Ba3ucNd7nGfBzzkUeD7/z/WJzzlGc95wUte8Zo3vOUd7/nARz7xmS+Bb2Pf96IQlWhEJwYxiUVs4hCXeMQnAQkJJhEhJCYJSUlGclKQklSkJg1pSUd6QgkjnAxkJBMRZCYLWclGdnKQk1zkJg9fAYLTbJ3ABAAA
+  </data>
+ </layer>
+ <layer name="meta" width="19" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC43PyatPYRgH8PNzubjzPM/zfK95KKWUG1FKKSK2tuZMmcdMmcdMmTeykA2RLCRiIwvZEH8AsRGfxVv3+HXCW5++3/Oc5+10UlEUDSOD4Ywgk5GMYjRZZJNDLnnkU0AhRRRTQilllFNBJVVUU0MtddTTQCNNNNNCK22000EnXXTTQy999DPAGMYyjvFMYCKTmMwUpkZDZ1qsT4/1GbE+k8HQZzE79DnMje3Ni/X5sb4g1heyKPTFLAl9Kcuif5/l/7GzgpWsYjVrWMu68H49G9jIJjaH+Ra2so3t7GAnu9jNHvayj/3hzgEOcojDHAnzoxzjOCc4ySlOc4aznOM8F8Kdi1ziMle4GubXuM4NbnKL29xJ+Pe7Ie+lze+HfJBw5yGPQn/Mk9CfhnyWtv885IuQL3kV+mveJHzjbch3afP3IT8k3PnIp9A/8yVh52/nK99C/86PhJ2fIX+lzTNSQz0z9ee7LM/Z5JBLHvkUUEgRxZRQShnlVFBJFdXUUEsd9TTQSBPNtNBKG+100EkX3fTQSx/9DPAbtBqOssAEAAA=
+  </data>
+ </layer>
+ <layer name="door" width="19" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYPiArQPtgFFAVwAAYMoss8AEAAA=
+  </data>
+ </layer>
+ <objectgroup name="object">
+  <object id="1" x="164" y="352" width="32" height="32"/>
+  <object id="2" x="423" y="129" width="32" height="32"/>
+  <object id="3" x="37" y="129" width="32" height="32"/>
+ </objectgroup>
+</map>
